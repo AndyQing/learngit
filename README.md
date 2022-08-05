@@ -1,5 +1,5 @@
 # learngit
-# create a new repository on the command line
+## create a new repository on the command line
 echo "# xxx" >> README.md
 
 git init
