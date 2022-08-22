@@ -21,5 +21,5 @@ git branch -M main
 git push -u origin main
 
 
-## 合并代码
-git rebase
+## 合并master代码
+git rebase master
