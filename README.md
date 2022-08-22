@@ -20,4 +20,6 @@ git branch -M main
 
 git push -u origin main
 
-我是master提交,尝试使用 git rebase 合并代码
+
+## 合并代码
+git rebase
